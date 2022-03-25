@@ -1,10 +1,4 @@
-###### rsschool-cv
-
----
-
 # Sholomickaya Ekateryna
-
----
 
 ###### _Junior Frontend Developer_
 
