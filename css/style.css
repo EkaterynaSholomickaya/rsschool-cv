@@ -1,0 +1,19 @@
+* {
+	font-family: montserrat;
+}
+h1 {
+	color: rgb(9, 5, 46);
+}
+
+img {
+	width: 120px;
+	height: 100px;
+	border-radius: 50%;
+}
+a {
+	text-decoration: none;
+}
+
+.container {
+	max-width: 1200px;
+}
