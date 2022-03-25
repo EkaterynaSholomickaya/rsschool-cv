@@ -1,4 +1,4 @@
-### rsschool-cv
+###### rsschool-cv
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-### _Junior Frontend Developer_
+###### _Junior Frontend Developer_
 
 ---
 
@@ -22,13 +22,15 @@
 
 ### Briefly About Myself:
 
-В 2010 году закончила Витебский государственный университет им. Машерова, по специальности Прикладная математика. Одновременно с этим прошла курсы, а затем и практику в EPAM systems, в качестве Java-разработчика.
-После окончания университета, по распределению, попала в УО”ВГУОР”. Там работала в качестве системного администратора, писала программы для бухгалтерии, нарисовала макет и сверстала сайт для ВГУОР.
-Через полтора года поменяла место жительство и перераспределилась в Минский РУП “Белтелеком”. Работала в бухгалтерии.
-После чего ушла в декретный отпуск, во время которого освоила Photoshop, овладела различными техниками ретуши. Некоторое время работала ретушером. Однако я понммала, что, работая ретушером, не смогу раскрыть весь свой потенциал. Поэтому
-я решила вернуться в IT. К этому времени я хорошо освоила такие графические редакторы, как Figma и Photoshop. Поэтому, на том этапе, ближе всего мне был веб-дизайн. В 2020 году я прошла курсы по UI/UX-дизайну, после чего занималась фрилансом. В основном рисовала рисовала баннеры и макеты для небольших проектов. Параллельно осваивала верстку, чтобы войти в веб-разработкую. Эта профессия дает бесконечные возможности для профессионального роста, кроме того, есть огромное количество бесплатных качественных ресурсов для самообразования и большое сообщество разработчиков.
+In 2010, I graduated from Vitebsk State University with a degree in Applied Mathematics. At the same time, I took courses and then an internship at EPAM Systems as a Java developer.
+After graduating from the university, by distribution, I started working at the Vitebsk Olympic Reserve School. There I worked as a system administrator, created programs for accounting, drew a layout and made up a website.
 
-Я верю, что моя способность учиться и приобретать новые навыки поможет мне стать опытным Frontend-разработчиком.
+A year and a half later, I changed my place of residence and redistributed to the Minsk Republican Unitary Enterprise “Beltelecom”. Worked in accounting.
+After that, I went on maternity leave, during which I mastered Photoshop, mastered various retouching techniques. For a while I worked as a retoucher. However, I realized that, working as a retoucher, I would not be able to reveal my full potential. That's why I decided to return to IT.
+
+By this time, I had mastered such graphic editors as Figma and Photoshop. Therefore, at that stage, web design was closest to me. In 2020, I took courses in UI/UX design, after which I started to work as freelancer. I mainly created banners and layouts for small projects. At the same time, I mastered layout in order to enter web development. This profession provides endless opportunities for professional growth, in addition, there are a huge number of free quality resources for self-education and a large community of developers.
+
+I believe that my ability to learn and acquire new skills will help me become an experienced Frontend Developer.
 
 ---
 
@@ -70,8 +72,6 @@ function anagrams(word, words) {
 ```
 
 ---
-
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
 
 ### Education
 
